@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Benefit_Calculator", "Benefit_Calculator\Benefit_Calculator.csproj", "{A4079080-D421-45B5-9AFD-4D5FFA7F1A36}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Benefit_Calculator", "Benefit_Calculator\Benefit_Calculator.csproj", "{A4079080-D421-45B5-9AFD-4D5FFA7F1A36}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiplication_Tables", "Multiplication_Tables\Multiplication_Tables.csproj", "{83BF8F32-5548-44C6-A42B-DFA548620359}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Multiplication_Tables", "Multiplication_Tables\Multiplication_Tables.csproj", "{83BF8F32-5548-44C6-A42B-DFA548620359}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Even_Or_Odd", "Even_Or_Odd\Even_Or_Odd.csproj", "{6F92E80D-C8E3-476F-91BA-A193552E0926}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MRU_Calculator", "MRU_Calculator\MRU_Calculator.csproj", "{EBAE0962-A8A3-4D03-8C09-70654AF53B9F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{83BF8F32-5548-44C6-A42B-DFA548620359}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83BF8F32-5548-44C6-A42B-DFA548620359}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83BF8F32-5548-44C6-A42B-DFA548620359}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F92E80D-C8E3-476F-91BA-A193552E0926}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F92E80D-C8E3-476F-91BA-A193552E0926}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F92E80D-C8E3-476F-91BA-A193552E0926}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F92E80D-C8E3-476F-91BA-A193552E0926}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBAE0962-A8A3-4D03-8C09-70654AF53B9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBAE0962-A8A3-4D03-8C09-70654AF53B9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBAE0962-A8A3-4D03-8C09-70654AF53B9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBAE0962-A8A3-4D03-8C09-70654AF53B9F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
